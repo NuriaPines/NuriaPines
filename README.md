@@ -33,10 +33,10 @@
 ## 🚀 Proyectos destacados
 <p align="center">
   <a href="https://github.com/NuriaPines/games-vent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuriaPines&repo=games-vent&theme=tokyonight" />
+    <img src="imagenes/HOME-GamesVent.png"/>
   </a>
   <a href="https://github.com/NuriaPines/Proyecto-Final-Diseno">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuriaPines&repo=Proyecto-Final-Diseno&theme=tokyonight" />
+    <img src="imagenes/home-wereable.png" />
   </a>
   <a href="https://github.com/NuriaPines/Book-JavaScript-Study">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuriaPines&repo=Book-JavaScript-Study&theme=tokyonight" />
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/MartinezDelAlamoMarco/tfg_jmn_25_26">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinezDelAlamoMarco&repo=tfg_jmn_25_26&theme=tokyonight" />
+    <img src="imagenes/TFG.png" />
   </a>
 </p>
 
