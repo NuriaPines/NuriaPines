@@ -71,7 +71,7 @@ Repositorio de estudio con apuntes y ejercicios prácticos para aprender y refor
 ## 🤝 Proyectos en colaboración
 ## 🎓 Trabajo de Fin de Grado (TFG) — En desarrollo
 
-Actualmente estoy trabajando en el **Trabajo de Fin de Grado del ciclo superior de Desarrollo de Aplicaciones Web (DAW)** junto a un compañero.
+Actualmente estoy trabajando en el **Trabajo de Fin de Grado del ciclo superior de Desarrollo de Aplicaciones Web (DAW)** junto a dos compañeros.
 
 El repositorio se encuentra **en privado temporalmente**, ya que el proyecto sigue en fase de desarrollo y evaluación académica.
 
