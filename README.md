@@ -69,7 +69,22 @@ Repositorio de estudio con apuntes y ejercicios prácticos para aprender y refor
 ---
 
 ## 🤝 Proyectos en colaboración
+## 🎓 Trabajo de Fin de Grado (TFG) — En desarrollo
 
+Actualmente estoy trabajando en el **Trabajo de Fin de Grado del ciclo superior de Desarrollo de Aplicaciones Web (DAW)** junto a un compañero.
+
+El repositorio se encuentra **en privado temporalmente**, ya que el proyecto sigue en fase de desarrollo y evaluación académica.
+
+El TFG consiste en el diseño y desarrollo completo de una aplicación web, aplicando los conocimientos adquiridos durante el grado:
+
+- análisis y planificación del proyecto  
+- desarrollo frontend y backend  
+- diseño de base de datos  
+- trabajo colaborativo con control de versiones (Git/GitHub)
+
+📌 El repositorio será público una vez finalizado el proyecto y realizada la entrega oficial.
+
+✨ Proyecto actualmente en elaboración.
 <p align="center">
   <a href="https://github.com/MartinezDelAlamoMarco/tfg_jmn_25_26">
     <img src="imagenes/TFG.png" />
