@@ -31,17 +31,40 @@
 ---
 
 ## 🚀 Proyectos destacados
+
 <p align="center">
   <a href="https://github.com/NuriaPines/games-vent">
-    <img src="imagenes/HOME-GamesVent.png"/>
-  </a>
-  <a href="https://github.com/NuriaPines/Proyecto-Final-Diseno">
-    <img src="imagenes/home-wereable.png" />
-  </a>
-  <a href="https://github.com/NuriaPines/Book-JavaScript-Study">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuriaPines&repo=Book-JavaScript-Study&theme=tokyonight" />
+    <img src="imagenes/HOME-GamesVent.png" width="700" style="border-radius:12px;" />
   </a>
 </p>
+
+### 🎮 Games Vent
+Aplicación web centrada en videojuegos donde se trabaja el diseño de interfaz y la estructura de una web interactiva.
+
+**Tecnologías:** HTML · CSS · JavaScript  
+🔗 https://github.com/NuriaPines/games-vent
+
+---
+
+<p align="center">
+  <a href="https://github.com/NuriaPines/Proyecto-Final-Diseno">
+    <img src="imagenes/home-wereable.png" width="700" style="border-radius:12px;" />
+  </a>
+</p>
+
+### ⌚ Proyecto Final Diseño
+Proyecto web enfocado en diseño y experiencia de usuario, desarrollando una interfaz moderna para una página de productos wearables.
+
+**Tecnologías:** HTML · CSS · Diseño UI  
+🔗 https://github.com/NuriaPines/Proyecto-Final-Diseno
+
+---
+
+### 📘 Book JavaScript Study
+Repositorio de estudio con apuntes y ejercicios prácticos para aprender y reforzar conceptos de JavaScript.
+
+**Tecnologías:** JavaScript  
+🔗 https://github.com/NuriaPines/Book-JavaScript-Study
 
 ---
 
