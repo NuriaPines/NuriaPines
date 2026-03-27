@@ -48,7 +48,7 @@
 ## 🤝 Proyectos en colaboración
 
 <p align="center">
-  <a href="https://github.com/USUARIO-COMPANERO/NOMBRE-REPO">
+  <a href="https://github.com/MartinezDelAlamoMarco/tfg_jmn_25_26">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinezDelAlamoMarco&repo=tfg_jmn_25_26&theme=tokyonight" />
   </a>
 </p>
