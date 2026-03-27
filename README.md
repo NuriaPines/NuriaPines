@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- HEADER ANIMADO -->
 
-<!--
-**NuriaPines/NuriaPines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=Hola,%20soy%20Nuria%20✨&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">💻 Estudiante de desarrollo | Aprendiendo paso a paso</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 Sobre mí
+
+```text
+> Aprendiendo programación sin prisas pero sin pausa.
+> Construyendo cosas, rompiendo cosas y entendiendo por qué se rompieron.
+```
+
+* 🎓 Estudiante de desarrollo
+* 🧠 Aprendiendo bases de datos y programación
+* 🌱 Mejorando cada día un poquito más
+* ☕ El café y el debug van juntos
+
+---
+
+## ✨ Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sql,java,python,git,github,vscode&perline=6" />
+</p>
+
+---
+
+## 📊 Mi actividad en GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NuriaPines&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriaPines&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</p>
+
+---
+
+## 🔥 Racha de commits
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuriaPines&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+---
+
+## 🌙 Actualmente...
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E1N2l5dTR2M3J0ZTNxMWJmZ3V4ZzVxNzNqZXh6cGR2M3J6MXA0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif"/>
+
+* 📚 Practicando SQL y bases de datos
+* 🧩 Haciendo proyectos pequeños para aprender mejor
+* 🚀 Construyendo mi camino como desarrolladora
+
+---
+
+## 💫 Filosofía dev
+
+```javascript
+while (alive) {
+  learn();
+  practice();
+  improve();
+}
+```
+
+---
+
+<p align="center">
+  ✨ Perfil en construcción constante ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370db,100:ffb6c1&height=120&section=footer"/>
+</p>
