@@ -105,9 +105,12 @@ El TFG consiste en el diseño y desarrollo completo de una aplicación web, apli
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E1N2l5dTR2M3J0ZTNxMWJmZ3V4ZzVxNzNqZXh6cGR2M3J6MXA0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif"/>
 
-* 📚 Practicando SQL y bases de datos
-* 🧩 Haciendo proyectos pequeños para aprender mejor
-* 🚀 Construyendo mi camino como desarrolladora
+* 📚 Practicando SQL y bases de datos para mejorar consultas, triggers y procedimientos  
+* 🧩 Haciendo proyectos personales como **Games Vent** y **Proyecto Final Diseño**, aplicando diseño web, frontend y experiencia de usuario  
+* 📝 Estudiando y creando material propio en **Book JavaScript Study** para reforzar JavaScript  
+* 🎓 Trabajando en mi **TFG de DAW** (Desarrollo de Aplicaciones Web), proyecto colaborativo en fase privada que combina frontend, backend y base de datos  
+* 🚀 Construyendo mi camino como desarrolladora, aprendiendo a organizar proyectos y a trabajar en equipo con Git/GitHub  
+* ✨ Explorando nuevas tecnologías y buenas prácticas para aplicarlas en proyectos futuros
 
 ---
 
