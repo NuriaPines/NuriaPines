@@ -47,6 +47,21 @@
 
 ---
 
+## 🚀 Proyectos destacados
+<p align="center">
+  <a href="https://github.com/NuriaPines/games-vent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuriaPines&repo=repo1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/NuriaPines/Proyecto-Final-Diseno">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuriaPines&repo=repo2&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/NuriaPines/Book-JavaScript-Study">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuriaPines&repo=repo2&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ## 🌙 Actualmente...
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E1N2l5dTR2M3J0ZTNxMWJmZ3V4ZzVxNzNqZXh6cGR2M3J6MXA0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif"/>
