@@ -22,14 +22,6 @@
 
 ---
 
-## ✨ Tecnologías
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,java,python,git,github,vscode&perline=6" />
-</p>
-
----
-
 ## 🚀 Proyectos destacados
 
 <p align="center">
