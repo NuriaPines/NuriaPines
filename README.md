@@ -61,25 +61,41 @@ Repositorio de estudio con apuntes y ejercicios prácticos para aprender y refor
 ---
 
 ## 🤝 Proyectos en colaboración
-## 🎓 Trabajo de Fin de Grado (TFG) — En desarrollo
 
-Actualmente estoy trabajando en el **Trabajo de Fin de Grado del ciclo superior de Desarrollo de Aplicaciones Web (DAW)** junto a dos compañeros.
+## 🎓 Trabajo de Fin de Grado (TFG)
 
-El repositorio se encuentra **en privado temporalmente**, ya que el proyecto sigue en fase de desarrollo y evaluación académica.
+He desarrollado junto a dos compañeros una plataforma web orientada a la **compraventa y alquiler de vehículos**, como proyecto final del ciclo superior de **Desarrollo de Aplicaciones Web (DAW)**.
 
-El TFG consiste en el diseño y desarrollo completo de una aplicación web, aplicando los conocimientos adquiridos durante el grado:
+El proyecto consiste en un marketplace completo que permite a los usuarios publicar anuncios, gestionar vehículos, comunicarse mediante chat en tiempo real y administrar contenido desde un panel de control.
 
-- análisis y planificación del proyecto  
-- desarrollo frontend y backend  
-- diseño de base de datos  
-- trabajo colaborativo con control de versiones (Git/GitHub)
+### 🚀 Tecnologías utilizadas
 
-📌 El repositorio será público una vez finalizado el proyecto y realizada la entrega oficial.
+- React + TypeScript
+- Vite
+- Tailwind CSS
+- Laravel / PHP
+- PostgreSQL / MySQL
+- API REST
+- Google Drive API
+- Git & GitHub
 
-✨ Proyecto actualmente en elaboración.
+### ✨ Funcionalidades principales
+
+- Gestión de anuncios de venta y alquiler
+- Sistema de autenticación y usuarios
+- Chat en tiempo real
+- Sistema de favoritos y reseñas
+- Panel de administración
+- Internacionalización (i18n)
+- Diseño responsive y moderno
+
+Durante el desarrollo del proyecto se aplicaron conocimientos de arquitectura full stack, diseño de bases de datos relacionales, integración de APIs, desarrollo responsive y trabajo colaborativo mediante control de versiones.
+
+📌 Proyecto finalizado y publicado en GitHub.
+
 <p align="center">
   <a href="https://github.com/MartinezDelAlamoMarco/tfg_jmn_25_26">
-    <img src="imagenes/TFG.png" />
+    <img src="imagenes/TFG.png" alt="Vista previa del TFG" />
   </a>
 </p>
 
