@@ -22,31 +22,61 @@
 
 ---
 
-## ✨ Tecnologías
+## 🚀 Proyectos destacados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,java,python,git,github,vscode&perline=6" />
+  <a href="https://github.com/NuriaPines/games-vent">
+    <img src="imagenes/HOME-GamesVent.png" width="700" style="border-radius:12px;" />
+  </a>
 </p>
+
+### 🎮 Games Vent
+Aplicación web centrada en videojuegos donde se trabaja el diseño de interfaz y la estructura de una web interactiva.
+
+**Tecnologías:** HTML · CSS · JavaScript  
+🔗 https://github.com/NuriaPines/games-vent
 
 ---
 
-## 🚀 Proyectos destacados
 <p align="center">
-  <a href="https://github.com/NuriaPines/games-vent">
-    <img src="imagenes/HOME-GamesVent.png"/>
-  </a>
   <a href="https://github.com/NuriaPines/Proyecto-Final-Diseno">
-    <img src="imagenes/home-wereable.png" />
-  </a>
-  <a href="https://github.com/NuriaPines/Book-JavaScript-Study">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuriaPines&repo=Book-JavaScript-Study&theme=tokyonight" />
+    <img src="imagenes/home-wereable.png" width="700" style="border-radius:12px;" />
   </a>
 </p>
+
+### ⌚ Proyecto Final Diseño
+Proyecto web enfocado en diseño y experiencia de usuario, desarrollando una interfaz moderna para una página de productos wearables.
+
+**Tecnologías:** HTML · CSS · Diseño UI  
+🔗 https://github.com/NuriaPines/Proyecto-Final-Diseno
+
+---
+
+### 📘 Book JavaScript Study
+Repositorio de estudio con apuntes y ejercicios prácticos para aprender y reforzar conceptos de JavaScript.
+
+**Tecnologías:** JavaScript  
+🔗 https://github.com/NuriaPines/Book-JavaScript-Study
 
 ---
 
 ## 🤝 Proyectos en colaboración
+## 🎓 Trabajo de Fin de Grado (TFG) — En desarrollo
 
+Actualmente estoy trabajando en el **Trabajo de Fin de Grado del ciclo superior de Desarrollo de Aplicaciones Web (DAW)** junto a dos compañeros.
+
+El repositorio se encuentra **en privado temporalmente**, ya que el proyecto sigue en fase de desarrollo y evaluación académica.
+
+El TFG consiste en el diseño y desarrollo completo de una aplicación web, aplicando los conocimientos adquiridos durante el grado:
+
+- análisis y planificación del proyecto  
+- desarrollo frontend y backend  
+- diseño de base de datos  
+- trabajo colaborativo con control de versiones (Git/GitHub)
+
+📌 El repositorio será público una vez finalizado el proyecto y realizada la entrega oficial.
+
+✨ Proyecto actualmente en elaboración.
 <p align="center">
   <a href="https://github.com/MartinezDelAlamoMarco/tfg_jmn_25_26">
     <img src="imagenes/TFG.png" />
@@ -67,9 +97,12 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E1N2l5dTR2M3J0ZTNxMWJmZ3V4ZzVxNzNqZXh6cGR2M3J6MXA0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif"/>
 
-* 📚 Practicando SQL y bases de datos
-* 🧩 Haciendo proyectos pequeños para aprender mejor
-* 🚀 Construyendo mi camino como desarrolladora
+* 📚 Practicando SQL y bases de datos para mejorar consultas, triggers y procedimientos  
+* 🧩 Haciendo proyectos personales como **Games Vent** y **Proyecto Final Diseño**, aplicando diseño web, frontend y experiencia de usuario  
+* 📝 Estudiando y creando material propio en **Book JavaScript Study** para reforzar JavaScript  
+* 🎓 Trabajando en mi **TFG de DAW** (Desarrollo de Aplicaciones Web), proyecto colaborativo en fase privada que combina frontend, backend y base de datos  
+* 🚀 Construyendo mi camino como desarrolladora, aprendiendo a organizar proyectos y a trabajar en equipo con Git/GitHub  
+* ✨ Explorando nuevas tecnologías y buenas prácticas para aplicarlas en proyectos futuros
 
 ---
 
