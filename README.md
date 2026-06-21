@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=Hola,%20soy%20Nuria%20✨&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=¡Hola,%20soy%20Nuria!%20✨&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <h3 align="center">👩‍💻 Full Stack Developer | Web Development • Automation • Digital Solutions</h3>
