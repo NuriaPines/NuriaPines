@@ -1,3 +1,5 @@
+<!-- HEADER ANIMADO -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=¡Hola,%20soy%20Nuria!%20✨&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
@@ -60,6 +62,12 @@ La plataforma consiste en un marketplace completo orientado a la compraventa y a
 
 📌 Proyecto finalizado con éxito y publicado en GitHub.
 
+<p align="center">
+  <a href="https://github.com/MartinezDelAlamoMarco/tfg_jmn_25_26">
+    <img src="imagenes/TFG.png" width="700" style="border-radius:12px;" alt="Vista previa del TFG" />
+  </a>
+</p>
+
 ---
 
 ## 🎮 Games Vent
@@ -67,6 +75,12 @@ La plataforma consiste en un marketplace completo orientado a la compraventa y a
 Aplicación web centrada en videojuegos donde se trabaja el diseño de interfaz y la estructura de una web interactiva.
 
 **Tecnologías:** HTML · CSS · JavaScript
+
+<p align="center">
+  <a href="https://github.com/NuriaPines/games-vent">
+    <img src="imagenes/HOME-GamesVent.png" width="700" style="border-radius:12px;" alt="Vista previa de Games Vent" />
+  </a>
+</p>
 
 🔗 https://github.com/NuriaPines/games-vent
 
@@ -77,6 +91,12 @@ Aplicación web centrada en videojuegos donde se trabaja el diseño de interfaz 
 Proyecto web enfocado en diseño y experiencia de usuario, desarrollando una interfaz moderna para una página de productos wearables.
 
 **Tecnologías:** HTML · CSS · Diseño UI
+
+<p align="center">
+  <a href="https://github.com/NuriaPines/Proyecto-Final-Diseno">
+    <img src="imagenes/home-wereable.png" width="700" style="border-radius:12px;" alt="Vista previa del Proyecto de Diseño" />
+  </a>
+</p>
 
 🔗 https://github.com/NuriaPines/Proyecto-Final-Diseno
 
@@ -97,7 +117,7 @@ Repositorio de estudio con apuntes y ejercicios prácticos para aprender y refor
 - ⚙️ En GongTime: desarrollando soluciones orientadas a la optimización de entornos web y sincronización de procesos.
 - 🔗 Automatizaciones: conectando aplicaciones y CRMs mediante lógica avanzada utilizando n8n y scripts personalizados.
 - 📚 Bases de Datos: refinando consultas complejas en SQL, triggers, vistas y procedimientos optimizados para entornos de producción.
-- 🧩 Proyectos Personales: manteniendo repositorios de estudio y frontend para continuar adoptando buenas prácticas del ecosistema JavaScript/React.
+- 🧩 Proyectos Personales: manteniendo repositorios de estudio y frontend para continuar adoptando buenas prácticas del ecosistema.
 
 ---
 
@@ -109,4 +129,3 @@ while (alive) {
   practice();
   improve();
 }
-```
