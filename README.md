@@ -1,133 +1,110 @@
-<!-- HEADER ANIMADO -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=Hola,%20soy%20Nuria%20✨&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h3 align="center">💻 Estudiante de desarrollo | Aprendiendo paso a paso</h3>
+<h3 align="center">👩‍💻 Full Stack Developer | Web Development • Automation • Digital Solutions</h3>
 
 ---
 
-## 🌸 Sobre mí
+# 🌸 Sobre mí
 
-```text
-> Aprendiendo programación sin prisas pero sin pausa.
-> Construyendo cosas, rompiendo cosas y entendiendo por qué se rompieron.
-```
+> Optimizando la gestión del tiempo y simplificando procesos operativos.  
+> Construyendo software eficiente, sin fricciones y adaptado al ritmo actual.
 
-* 🎓 Estudiante de desarrollo
-* 🧠 Aprendiendo bases de datos y programación
-* 🌱 Mejorando cada día un poquito más
-* ☕ El café y el debug van juntos
+- 🎓 Graduada en el Grado Superior de Desarrollo de Aplicaciones Web (DAW)
+- 💼 Programadora Junior en GongTime, enfocada en automatización y entornos web
+- 🧠 Especializada en automatización de workflows, firma electrónica y certificados digitales
+- 🌱 Aprendiendo, mejorando y refinando código día a día
 
 ---
 
-## 🚀 Proyectos destacados
+# 🚀 Experiencia Actual & Especialidades
 
-<p align="center">
-  <a href="https://github.com/NuriaPines/games-vent">
-    <img src="imagenes/HOME-GamesVent.png" width="700" style="border-radius:12px;" />
-  </a>
-</p>
+En **GongTime**, transformamos la manera en que los equipos gestionan su recurso más valioso: el tiempo. Nuestra plataforma está diseñada para optimizar la productividad, permitiendo que las empresas se enfoquen en lo que realmente importa.
 
+### 💡 Áreas de enfoque
 
-### 🎮 Games Vent
+#### ⚙️ Automatización Tech
+Optimización de aplicaciones y entornos web, integración y sincronización de CRMs utilizando herramientas de automatización como **n8n**.
+
+#### 🔐 Certificados Digitales & Firma Online
+Emisión rápida de certificados mediante la plataforma **Horus** (modelo PVP y Gestión Delegada), junto con procesos de videoidentificación remota o presencial.
+
+#### 🌐 Entornos Web
+Desarrollo, mantenimiento y refactorización sobre arquitecturas completas Full Stack.
+
+---
+
+# 🤝 Proyectos Destacados y Colaboraciones
+
+## 🎓 Trabajo de Fin de Grado (TFG) — NujamaMotors
+
+Desarrollado junto a dos compañeros como proyecto final del ciclo superior de DAW.
+
+La plataforma consiste en un marketplace completo orientado a la compraventa y alquiler de vehículos, permitiendo a los usuarios publicar anuncios, gestionar vehículos, comunicarse mediante chat en tiempo real y administrar contenido desde un panel de control con soporte multiidioma.
+
+### 🚀 Tecnologías utilizadas
+
+- React + TypeScript + Vite
+- Tailwind CSS
+- Laravel / PHP (Sanctum)
+- PostgreSQL / MySQL / Supabase
+- API REST & Google Drive API
+- Git & GitHub (Metodología GitFlow)
+
+### ✨ Funcionalidades principales
+
+- Gestión avanzada de anuncios de venta y alquiler
+- Sistema de autenticación de usuarios y roles de administración
+- Chat en tiempo real, favoritos y reseñas de usuarios
+- Panel de control de inventario y almacenamiento de imágenes en la nube
+- Internacionalización completa (i18n)
+- Diseño responsive con modo claro y oscuro
+
+📌 Proyecto finalizado con éxito y publicado en GitHub.
+
+---
+
+## 🎮 Games Vent
+
 Aplicación web centrada en videojuegos donde se trabaja el diseño de interfaz y la estructura de una web interactiva.
 
-**Tecnologías:** HTML · CSS · JavaScript  
+**Tecnologías:** HTML · CSS · JavaScript
+
 🔗 https://github.com/NuriaPines/games-vent
-
-
-
 
 ---
 
-<p align="center">
-  <a href="https://github.com/NuriaPines/Proyecto-Final-Diseno">
-    <img src="imagenes/home-wereable.png" width="700" style="border-radius:12px;" />
-  </a>
+## ⌚ Proyecto Final Diseño
 
-</p>
-
-### ⌚ Proyecto Final Diseño
 Proyecto web enfocado en diseño y experiencia de usuario, desarrollando una interfaz moderna para una página de productos wearables.
 
-**Tecnologías:** HTML · CSS · Diseño UI  
+**Tecnologías:** HTML · CSS · Diseño UI
+
 🔗 https://github.com/NuriaPines/Proyecto-Final-Diseno
 
 ---
 
-### 📘 Book JavaScript Study
+## 📘 Book JavaScript Study
+
 Repositorio de estudio con apuntes y ejercicios prácticos para aprender y reforzar conceptos de JavaScript.
 
-**Tecnologías:** JavaScript  
+**Tecnologías:** JavaScript
+
 🔗 https://github.com/NuriaPines/Book-JavaScript-Study
 
 ---
 
-## 🤝 Proyectos en colaboración
+# 🌙 Actualmente...
 
-## 🎓 Trabajo de Fin de Grado (TFG)
-
-He desarrollado junto a dos compañeros una plataforma web orientada a la **compraventa y alquiler de vehículos**, como proyecto final del ciclo superior de **Desarrollo de Aplicaciones Web (DAW)**.
-
-El proyecto consiste en un marketplace completo que permite a los usuarios publicar anuncios, gestionar vehículos, comunicarse mediante chat en tiempo real y administrar contenido desde un panel de control.
-
-### 🚀 Tecnologías utilizadas
-
-- React + TypeScript
-- Vite
-- Tailwind CSS
-- Laravel / PHP
-- PostgreSQL / MySQL
-- API REST
-- Google Drive API
-- Git & GitHub
-
-### ✨ Funcionalidades principales
-
-- Gestión de anuncios de venta y alquiler
-- Sistema de autenticación y usuarios
-- Chat en tiempo real
-- Sistema de favoritos y reseñas
-- Panel de administración
-- Internacionalización (i18n)
-- Diseño responsive y moderno
-
-Durante el desarrollo del proyecto se aplicaron conocimientos de arquitectura full stack, diseño de bases de datos relacionales, integración de APIs, desarrollo responsive y trabajo colaborativo mediante control de versiones.
-
-📌 Proyecto finalizado y publicado en GitHub.
-
-<p align="center">
-  <a href="https://github.com/MartinezDelAlamoMarco/tfg_jmn_25_26">
-    <img src="imagenes/TFG.png" alt="Vista previa del TFG" />
-  </a>
-</p>
+- ⚙️ En GongTime: desarrollando soluciones orientadas a la optimización de entornos web y sincronización de procesos.
+- 🔗 Automatizaciones: conectando aplicaciones y CRMs mediante lógica avanzada utilizando n8n y scripts personalizados.
+- 📚 Bases de Datos: refinando consultas complejas en SQL, triggers, vistas y procedimientos optimizados para entornos de producción.
+- 🧩 Proyectos Personales: manteniendo repositorios de estudio y frontend para continuar adoptando buenas prácticas del ecosistema JavaScript/React.
 
 ---
 
-## 🔥 Racha de commits
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuriaPines&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
----
-
-## 🌙 Actualmente...
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E1N2l5dTR2M3J0ZTNxMWJmZ3V4ZzVxNzNqZXh6cGR2M3J6MXA0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif"/>
-
-* 📚 Practicando SQL y bases de datos para mejorar consultas, triggers y procedimientos  
-* 🧩 Haciendo proyectos personales como **Games Vent** y **Proyecto Final Diseño**, aplicando diseño web, frontend y experiencia de usuario  
-* 📝 Estudiando y creando material propio en **Book JavaScript Study** para reforzar JavaScript  
-* 🎓 Trabajando en mi **TFG de DAW** (Desarrollo de Aplicaciones Web), proyecto colaborativo en fase privada que combina frontend, backend y base de datos  
-* 🚀 Construyendo mi camino como desarrolladora, aprendiendo a organizar proyectos y a trabajar en equipo con Git/GitHub  
-* ✨ Explorando nuevas tecnologías y buenas prácticas para aplicarlas en proyectos futuros
-
----
-
-## 💫 Filosofía dev
+# 💫 Filosofía Dev
 
 ```javascript
 while (alive) {
@@ -136,13 +113,3 @@ while (alive) {
   improve();
 }
 ```
-
----
-
-<p align="center">
-  ✨ Perfil en construcción constante ✨
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370db,100:ffb6c1&height=120&section=footer"/>
-</p>
