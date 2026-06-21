@@ -1,143 +1,60 @@
-<!-- HEADER ANIMADO -->
+# ¡Hola! Soy Nuria 👋 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=Hola,%20soy%20Nuria%20✨&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</p>
+### 👩‍💻 Junior Full Stack Developer | Programadora Junior en GongTime
 
-<h3 align="center">💻 Estudiante de desarrollo | Aprendiendo paso a paso</h3>
+¡Bienvenido/a a mi espacio en GitHub! Tras completar mi **Grado Superior**, he dado el salto al mundo profesional. Actualmente formo parte del equipo de **GongTime**, donde ayudamos a las empresas a optimizar la gestión de su tiempo, automatizar procesos operativos y simplificar la gestión de la eficiencia diaria sin fricciones.
 
 ---
 
-## 🌸 Sobre mí
+### 🚀 Sobre mí y mi rol actual
 
-```text
-> Aprendiendo programación sin prisas pero sin pausa.
-> Construyendo cosas, rompiendo cosas y entendiendo por qué se rompieron.
-```
-
-* 🎓 Estudiante de desarrollo
-* 🧠 Aprendiendo bases de datos y programación
-* 🌱 Mejorando cada día un poquito más
-* ☕ El café y el debug van juntos
+En **GongTime** participo activamente en el desarrollo y optimización de soluciones tecnológicas avanzadas, enfocándome en:
+*   **Eficiencia e Integración:** Optimización de aplicaciones, entornos web y sincronización de sistemas CRM.
+*   **Legal Tech:** Implementación y gestión de flujos de firma electrónica, firma online y emisión de certificados digitales.
+*   **Automatización Avanzada:** Creación de workflows eficientes utilizando herramientas como **n8n** y desarrollo de scripts personalizados.
 
 ---
 
-## 🚀 Proyectos destacados
+### 💻 Mi Stack Tecnológico
 
-<p align="center">
-  <a href="https://github.com/NuriaPines/games-vent">
-    <img src="imagenes/HOME-GamesVent.png" width="700" style="border-radius:12px;" />
-  </a>
-</p>
-
-### 🎮 Games Vent
-Aplicación web centrada en videojuegos donde se trabaja el diseño de interfaz y la estructura de una web interactiva.
-
-**Tecnologías:** HTML · CSS · JavaScript  
-🔗 https://github.com/NuriaPines/games-vent
-
----
-
-<p align="center">
-  <a href="https://github.com/NuriaPines/Proyecto-Final-Diseno">
-    <img src="imagenes/home-wereable.png" width="700" style="border-radius:12px;" />
-  </a>
-</p>
-
-### ⌚ Proyecto Final Diseño
-Proyecto web enfocado en diseño y experiencia de usuario, desarrollando una interfaz moderna para una página de productos wearables.
-
-**Tecnologías:** HTML · CSS · Diseño UI  
-🔗 https://github.com/NuriaPines/Proyecto-Final-Diseno
-
----
-
-### 📘 Book JavaScript Study
-Repositorio de estudio con apuntes y ejercicios prácticos para aprender y reforzar conceptos de JavaScript.
-
-**Tecnologías:** JavaScript  
-🔗 https://github.com/NuriaPines/Book-JavaScript-Study
-
----
-
-## 🤝 Proyectos en colaboración
-
-## 🎓 Trabajo de Fin de Grado (TFG)
-
-He desarrollado junto a dos compañeros una plataforma web orientada a la **compraventa y alquiler de vehículos**, como proyecto final del ciclo superior de **Desarrollo de Aplicaciones Web (DAW)**.
-
-El proyecto consiste en un marketplace completo que permite a los usuarios publicar anuncios, gestionar vehículos, comunicarse mediante chat en tiempo real y administrar contenido desde un panel de control.
-
-### 🚀 Tecnologías utilizadas
-
-- React + TypeScript
-- Vite
-- Tailwind CSS
-- Laravel / PHP
-- PostgreSQL / MySQL
-- API REST
-- Google Drive API
-- Git & GitHub
-
-### ✨ Funcionalidades principales
-
-- Gestión de anuncios de venta y alquiler
-- Sistema de autenticación y usuarios
-- Chat en tiempo real
-- Sistema de favoritos y reseñas
-- Panel de administración
-- Internacionalización (i18n)
-- Diseño responsive y moderno
-
-Durante el desarrollo del proyecto se aplicaron conocimientos de arquitectura full stack, diseño de bases de datos relacionales, integración de APIs, desarrollo responsive y trabajo colaborativo mediante control de versiones.
-
-📌 Proyecto finalizado y publicado en GitHub.
-
-<p align="center">
-  <a href="https://github.com/MartinezDelAlamoMarco/tfg_jmn_25_26">
-    <img src="imagenes/TFG.png" alt="Vista previa del TFG" />
-  </a>
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <br/>
+  
+  <!-- Backend & Automatización -->
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <br/>
+  
+  <!-- Bases de Datos y Herramientas -->
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgres&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🔥 Racha de commits
+### 🛠️ Destacado en mis Repositorios
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuriaPines&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
+*   **NujamaMotors (Proyecto TFG):** Un marketplace integral de vehículos desarrollado desde cero utilizando **React** para el frontend, **Laravel** (con Sanctum) para el backend y **Supabase/PostgreSQL** como arquitectura de datos. Cuenta con sincronización en la nube mediante API para el almacenamiento de imágenes de vehículos, maquetación adaptativa en modo claro/oscuro y sigue estrictamente la metodología **GitFlow**.
 
 ---
 
-## 🌙 Actualmente...
+### 📫 Conecta conmigo
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E1N2l5dTR2M3J0ZTNxMWJmZ3V4ZzVxNzNqZXh6cGR2M3J6MXA0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif"/>
+Si quieres charlar sobre desarrollo de software, automatizaciones o simplemente compartir un café virtual, puedes encontrarme en:
 
-* 📚 Practicando SQL y bases de datos para mejorar consultas, triggers y procedimientos  
-* 🧩 Haciendo proyectos personales como **Games Vent** y **Proyecto Final Diseño**, aplicando diseño web, frontend y experiencia de usuario  
-* 📝 Estudiando y creando material propio en **Book JavaScript Study** para reforzar JavaScript  
-* 🎓 Trabajando en mi **TFG de DAW** (Desarrollo de Aplicaciones Web), proyecto colaborativo en fase privada que combina frontend, backend y base de datos  
-* 🚀 Construyendo mi camino como desarrolladora, aprendiendo a organizar proyectos y a trabajar en equipo con Git/GitHub  
-* ✨ Explorando nuevas tecnologías y buenas prácticas para aplicarlas en proyectos futuros
+*   **LinkedIn:** [Tu Enlace a LinkedIn Aquí]
+*   **Email:** [Tu Email Aquí]
 
 ---
-
-## 💫 Filosofía dev
-
-```javascript
-while (alive) {
-  learn();
-  practice();
-  improve();
-}
-```
-
----
-
-<p align="center">
-  ✨ Perfil en construcción constante ✨
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370db,100:ffb6c1&height=120&section=footer"/>
-</p>
+<p align="center"><i>"Creando herramientas eficientes que se adaptan al ritmo del mundo actual."</i></p>
