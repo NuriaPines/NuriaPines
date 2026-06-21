@@ -27,9 +27,6 @@ En **GongTime**, transformamos la manera en que los equipos gestionan su recurso
 #### ⚙️ Automatización Tech
 Optimización de aplicaciones y entornos web, integración y sincronización de CRMs utilizando herramientas de automatización como **n8n**.
 
-#### 🔐 Certificados Digitales & Firma Online
-Emisión rápida de certificados mediante la plataforma **Horus** (modelo PVP y Gestión Delegada), junto con procesos de videoidentificación remota o presencial.
-
 #### 🌐 Entornos Web
 Desarrollo, mantenimiento y refactorización sobre arquitecturas completas Full Stack.
 
