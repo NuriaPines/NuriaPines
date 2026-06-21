@@ -13,7 +13,7 @@
 
 - 🎓 Graduada en el Grado Superior de Desarrollo de Aplicaciones Web (DAW)
 - 💼 Programadora Junior en GongTime, enfocada en automatización y entornos web
-- 🧠 Especializada en automatización de workflows, firma electrónica y certificados digitales
+- 🧠 Especializada en automatización de workflows
 - 🌱 Aprendiendo, mejorando y refinando código día a día
 
 ---
